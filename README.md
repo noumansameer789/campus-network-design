@@ -1,16 +1,9 @@
-# Campus network infrastructure design
+# Campus network design
 
-Portfolio documentation for a departmental Cisco Packet Tracer design using
-VLAN segmentation, structured subnetting, inter-VLAN routing, bandwidth policy
-and access-port security.
+This small study is now presented with the other engineering studies in the [consolidated portfolio](https://github.com/noumansameer789/noumansameer789/tree/main/engineering-studies/campus-network-design).
 
-## Design goals
+## Scope
 
-- isolate student, staff, lab, server and management traffic
-- make address allocation auditable and expandable
-- restrict access ports and management planes by default
-- document verification commands and failure scenarios
+Cisco configuration teaching example. The original Packet Tracer simulation and assessed topology are not included. The example addressing plan is a new illustration, not recovered original evidence.
 
-The original `.pkt` file is not included. `configs/switch-template.txt` is a
-vendor-style teaching template and must be adapted to the actual topology before
-use.
+The existing source remains here for traceability. This is a study, not an additional completed deployed product.
